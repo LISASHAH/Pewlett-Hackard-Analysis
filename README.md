@@ -4,8 +4,6 @@
 <p style="margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;">Total number of individuals retiring are &nbsp; &nbsp; 71193</p>
 <p style="margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;">Total number of individuals hired are &nbsp; &nbsp; 300024</p>
 <p style="margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;">Total number of individuals available for mentorship are &nbsp; &nbsp; 1549</p>
-<br>
-<p style="margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;">Total number of individuals available for mentorship are &nbsp; &nbsp; 1549</p>
 <br><br>
 <p style="margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:&quot;Calibri&quot;,sans-serif;"><B>Suggestion for future analysis:</B> The next analysis should consist of realted fields and individuals with specific designation for mentor. We can also analyse the trend for positions that individuals are going through during their career and HR could use that data for designing career growth pathways. </p>
 
